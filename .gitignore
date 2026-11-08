@@ -42,3 +42,6 @@ next-env.d.ts
 
 # local study records
 .data
+
+# research notes from setup, not part of the app
+agent-tools/
